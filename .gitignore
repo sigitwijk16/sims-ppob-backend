@@ -1,0 +1,6 @@
+.env
+node_modules
+README.md
+DEPLOYMENT.md
+scripts
+migrations
